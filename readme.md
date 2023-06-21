@@ -9,15 +9,16 @@ Nossa proposta é criar um ecosistema onde teremos duas criaturas, uma herbivora
 ## INPUTS
 
 * Energia atual
-* Ângulo da criatura mais próxima
+* Ângulo atual
+* Ângulo (tan) da criatura mais próxima
 * Distância da criatura mais próxima
-* Ângulo da comida mais próxima
+* Ângulo (tan) da comida mais próxima
 * Distância da comida mais próxima
 
 ## OUTPUTS
 
 * Andar pra frente
-* Angulo de rotação
 * Correr
+* Angulo de rotação
 
 ## 

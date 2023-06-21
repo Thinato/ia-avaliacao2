@@ -1,6 +1,6 @@
 # Avaliação 2
-Leonardo Correa da Silva
-Paulo Ricardo Novaes Lisecki
+- Leonardo Correa da Silva
+- Paulo Ricardo Novaes Lisecki
 
 ## Ideia
 
